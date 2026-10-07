@@ -1,0 +1,22 @@
+--find-links https://download.pytorch.org/whl/torch/
+torch==2.14.0+cu126
+
+--find-links https://download.pytorch.org/whl/torchvision/
+torchvision==0.29.0+cu126
+
+pandas==3.0.6
+requests==2.34.2
+scipy==1.18.1
+scikit-learn==1.9.1
+tensorboard==2.21.0
+matplotlib==3.11.2
+tqdm==4.70.1
+thefuzz==0.22.1
+seaborn==0.13.2
+pillow==12.3.0
+pyyaml==6.0.3
+timeout_decorator==0.5.0
+datasets==5.0.1
+numpy==2.5.3
+memory-profiler==0.61.0
+diffusers==0.40.0
